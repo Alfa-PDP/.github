@@ -181,6 +181,29 @@ ___
 
 ___
 
+### ДИПЛОМЫ
+
+|                               RUS                                |                               ENG                                |
+|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+|   ![Юлия Никифорова (RU)](https://github.com/Alfa-PDP/.github)   |   ![Юлия Никифорова (EN)](https://github.com/Alfa-PDP/.github)   |
+|   ![Алексей Смирнов (RU)](https://github.com/Alfa-PDP/.github)   |   ![Алексей Смирнов (EN)](https://github.com/Alfa-PDP/.github)   |
+|    ![Катя Хейчеева (RU)](https://github.com/Alfa-PDP/.github)    |    ![Катя Хейчеева (EN)](https://github.com/Alfa-PDP/.github)    |
+|   ![Илона Кончугова (RU)](https://github.com/Alfa-PDP/.github)   |   ![Илона Кончугова (EN)](https://github.com/Alfa-PDP/.github)   |
+|   ![Мария Дергунова (RU)](https://github.com/Alfa-PDP/.github)   |   ![Мария Дергунова (EN)](https://github.com/Alfa-PDP/.github)   |
+|   ![Ольга Дмитриева (RU)](https://github.com/Alfa-PDP/.github)   |   ![Ольга Дмитриева (EN)](https://github.com/Alfa-PDP/.github)   |
+|  ![Алексей Селезнев (RU)](https://github.com/Alfa-PDP/.github)   |  ![Алексей Селезнев (EN)](https://github.com/Alfa-PDP/.github)   |
+|    ![Асия Ахмерова (RU)](https://github.com/Alfa-PDP/.github)    |    ![Асия Ахмерова (EN)](https://github.com/Alfa-PDP/.github)    |
+|   ![Маргарита Церт (RU)](https://github.com/Alfa-PDP/.github)    |   ![Маргарита Церт (EN)](https://github.com/Alfa-PDP/.github)    |
+| ![Константин Епифанов (RU)](https://github.com/Alfa-PDP/.github) | ![Константин Епифанов (EN)](https://github.com/Alfa-PDP/.github) |
+|  ![Андрей Родителев (RU)](https://github.com/Alfa-PDP/.github)   |  ![Андрей Родителев (EN)](https://github.com/Alfa-PDP/.github)   |
+|    ![Максим Смелый (RU)](https://github.com/Alfa-PDP/.github)    |    ![Максим Смелый (EN)](https://github.com/Alfa-PDP/.github)    |
+|  ![Михаил Спиридонов (RU)](https://github.com/Alfa-PDP/.github)  |  ![Михаил Спиридонов (EN)](https://github.com/Alfa-PDP/.github)  |
+|   ![Максим Головин (RU)](https://github.com/Alfa-PDP/.github)    |    ![Максим Голови (EN)](https://github.com/Alfa-PDP/.github)    |
+|    ![Павел Ермеев (RU)](https://github.com/Alfa-PDP/.github)     |    ![Павел Ермеев (EN)](https://github.com/Alfa-PDP/.github)     |
+|   ![Кирилл Широков (RU)](https://github.com/Alfa-PDP/.github)    |   ![Кирилл Широков (EN)](https://github.com/Alfa-PDP/.github)    |
+
+___
+
 [Юлия Никифорова]: <https://t.me/Niki_for_Ova/>
 [Алексей Смирнов]: <https://t.me/lenreg/>
 [Катя Хейчеева]: <https://t.me/kashkaldykova1/>
